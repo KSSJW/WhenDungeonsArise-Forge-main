@@ -1,0 +1,37 @@
+{
+  "display": {
+    "title": {
+      "translate": "advancement.dungeons_arise.wda_root.title",
+      "fallback": "When Dungeons Arise",
+      "color": "gold",
+      "bold": false,
+      "italic": false,
+      "underlined": false,
+      "strikethrough": false,
+      "obfuscated": false
+    },
+    "description": {
+      "translate": "advancement.dungeons_arise.wda_root.desc",
+      "fallback": "Dungeons arise on a brave new world",
+      "color": "white"
+    },
+    "icon": {
+      "id": "minecraft:golden_sword"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false,
+    "background": "minecraft:textures/block/mangrove_planks.png"
+  },
+  "criteria": {
+    "WDA": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "requirements": [
+    [
+      "WDA"
+    ]
+  ]
+}

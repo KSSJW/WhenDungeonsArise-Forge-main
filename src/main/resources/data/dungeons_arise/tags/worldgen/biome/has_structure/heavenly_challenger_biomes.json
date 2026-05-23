@@ -9,6 +9,10 @@
     "minecraft:savanna",
     "minecraft:savanna_plateau",
     "minecraft:end_midlands",
-    "minecraft:end_highlands"
+    "minecraft:end_highlands",
+    {
+      "id": "#dungeons_arise:collections/other_forests",
+      "required": false
+    }
   ]
 }

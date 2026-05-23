@@ -1,5 +1,5 @@
 {
-  "type": "dungeons_arise:generic_structures",
+  "type": "minecraft:jigsaw",
   "start_pool": "dungeons_arise:enigmatic/lighthouse/lighthouse_start",
   "size": 7,
   "biomes": "#dungeons_arise:has_structure/lighthouse_biomes",
@@ -11,5 +11,6 @@
     "absolute": -1
   },
   "project_start_to_heightmap": "WORLD_SURFACE_WG",
-  "use_expansion_hack": false
+  "use_expansion_hack": false,
+"liquid_settings": "ignore_waterlogging"
 }

@@ -1,6 +1,10 @@
 {
   "replace": false,
   "values": [
-    "#minecraft:is_ocean"
+    "#minecraft:is_ocean",
+    {
+      "id": "#dungeons_arise:collections/other_oceans",
+      "required": false
+    }
   ]
 }

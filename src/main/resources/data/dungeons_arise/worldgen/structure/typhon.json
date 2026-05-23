@@ -11,5 +11,6 @@
     "absolute": -4
   },
   "project_start_to_heightmap": "OCEAN_FLOOR",
-  "use_expansion_hack": false
+  "use_expansion_hack": false,
+"liquid_settings": "apply_waterlogging"
 }

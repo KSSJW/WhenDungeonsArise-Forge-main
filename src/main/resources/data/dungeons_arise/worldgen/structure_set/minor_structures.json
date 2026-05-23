@@ -14,7 +14,7 @@
     },
     {
       "structure": "dungeons_arise:bathhouse",
-      "weight": 2
+      "weight": 1
     },
     {
       "structure": "dungeons_arise:abandoned_temple",
@@ -22,13 +22,17 @@
     },
     {
       "structure": "dungeons_arise:lighthouse",
-      "weight": 2
+      "weight": 1
     }
   ],
   "placement": {
     "salt": 342415935,
-    "spacing": 35,
-    "separation": 25,
+    "spacing": 45,
+    "separation": 40,
     "type": "minecraft:random_spread"
+  },
+  "exclusion_zone": {
+    "chunk_count": 10,
+    "other_set": "dungeons_arise:major_structures"
   }
 }

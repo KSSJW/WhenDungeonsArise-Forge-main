@@ -4,6 +4,14 @@
     "minecraft:snowy_taiga",
     "minecraft:snowy_plains",
     "minecraft:snowy_slopes",
-    "#minecraft:is_taiga"
+    "#minecraft:is_taiga",
+    {
+      "id": "#dungeons_arise:collections/other_taigas",
+      "required": false
+    },
+    {
+      "id": "#dungeons_arise:collections/other_snowy",
+      "required": false
+    }
   ]
 }

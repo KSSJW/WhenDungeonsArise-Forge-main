@@ -2,6 +2,10 @@
   "replace": false,
   "values": [
     "#minecraft:is_beach",
-    "minecraft:plains"
+    "minecraft:plains",
+    {
+      "id": "#dungeons_arise:collections/other_plains",
+      "required": false
+    }
   ]
 }

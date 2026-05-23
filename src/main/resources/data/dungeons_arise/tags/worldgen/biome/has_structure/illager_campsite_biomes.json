@@ -4,6 +4,14 @@
     "minecraft:plains",
     "minecraft:meadow",
     "minecraft:sunflower_plains",
-    "#minecraft:is_hill"
+    "#minecraft:is_hill",
+    {
+      "id": "#dungeons_arise:collections/other_plains",
+      "required": false
+    },
+    {
+      "id": "#dungeons_arise:collections/other_snowy",
+      "required": false
+    }
   ]
 }

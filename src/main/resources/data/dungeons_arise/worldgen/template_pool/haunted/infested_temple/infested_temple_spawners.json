@@ -5,8 +5,8 @@
     {
       "weight": 1,
       "element": {
-        "location": "dungeons_arise:infested_temple/infested_temple_cave_spider_0",
-        "processors": "minecraft:empty",
+        "location": "dungeons_arise:infested_temple/infested_temple_spawner_0_ominous",
+        "processors": "dungeons_arise:infested_temple_main",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
@@ -14,8 +14,8 @@
     {
       "weight": 1,
       "element": {
-        "location": "dungeons_arise:infested_temple/infested_temple_cave_spider_1",
-        "processors": "minecraft:empty",
+        "location": "dungeons_arise:infested_temple/infested_temple_spawner_1_spider",
+        "processors": "dungeons_arise:infested_temple_main",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
@@ -23,8 +23,8 @@
     {
       "weight": 1,
       "element": {
-        "location": "dungeons_arise:infested_temple/infested_temple_wither_skeleton_0",
-        "processors": "minecraft:empty",
+        "location": "dungeons_arise:infested_temple/infested_temple_spawner_2_spider",
+        "processors": "dungeons_arise:infested_temple_main",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
@@ -32,8 +32,17 @@
     {
       "weight": 1,
       "element": {
-        "location": "dungeons_arise:infested_temple/infested_temple_skeleton_0",
-        "processors": "minecraft:empty",
+        "location": "dungeons_arise:infested_temple/infested_temple_spawner_3_skeleton",
+        "processors": "dungeons_arise:infested_temple_main",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "dungeons_arise:infested_temple/infested_temple_spawner_4_wither_skeleton",
+        "processors": "dungeons_arise:infested_temple_main",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }

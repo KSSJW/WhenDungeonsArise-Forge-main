@@ -8,6 +8,18 @@
             "predicate_type": "minecraft:always_true"
           },
           "input_predicate": {
+            "predicate_type": "minecraft:block_match",
+            "block": "minecraft:campfire"
+          },
+          "output_state": {
+            "Name": "minecraft:lantern"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
             "predicate_type": "minecraft:random_block_match",
             "block": "minecraft:mud_bricks",
             "probability": 0.25

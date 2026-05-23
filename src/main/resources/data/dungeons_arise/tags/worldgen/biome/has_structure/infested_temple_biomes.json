@@ -3,6 +3,17 @@
   "values": [
     "#minecraft:is_taiga",
     "#minecraft:is_hill",
-    "#minecraft:is_mountain"
+    {
+      "id": "#dungeons_arise:collections/other_taigas",
+      "required": false
+    },
+    {
+      "id": "#dungeons_arise:collections/other_snowy",
+      "required": false
+    },
+    {
+      "id": "#dungeons_arise:collections/other_cherry",
+      "required": false
+    }
   ]
 }

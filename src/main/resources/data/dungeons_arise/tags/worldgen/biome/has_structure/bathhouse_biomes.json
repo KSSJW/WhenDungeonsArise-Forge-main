@@ -7,6 +7,14 @@
     "minecraft:sunflower_plains",
     "minecraft:snowy_taiga",
     "#minecraft:is_taiga",
-    "minecraft:savanna"
+    "minecraft:savanna",
+    {
+      "id": "#dungeons_arise:collections/other_plains",
+      "required": false
+    },
+    {
+      "id": "#dungeons_arise:collections/other_snowy",
+      "required": false
+    }
   ]
 }

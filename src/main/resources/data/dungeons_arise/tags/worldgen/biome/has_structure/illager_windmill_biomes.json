@@ -3,6 +3,10 @@
   "values": [
     "minecraft:plains",
     "minecraft:meadow",
-    "minecraft:sunflower_plains"
+    "minecraft:sunflower_plains",
+    {
+      "id": "#dungeons_arise:collections/other_plains",
+      "required": false
+    }
   ]
 }

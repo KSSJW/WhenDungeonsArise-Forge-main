@@ -1,6 +1,10 @@
 {
   "replace": false,
   "values": [
-    "#minecraft:is_jungle"
+    "#minecraft:is_jungle",
+    {
+      "id": "#dungeons_arise:collections/other_jungles",
+      "required": false
+    }
   ]
 }

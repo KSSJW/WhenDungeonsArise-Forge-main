@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:plains",
+    "#minecraft:is_hill",
+    {
+      "id": "#dungeons_arise:collections/other_plains",
+      "required": false
+    },
+    {
+      "id": "#dungeons_arise:collections/other_cherry",
+      "required": false
+    }
+  ]
+}

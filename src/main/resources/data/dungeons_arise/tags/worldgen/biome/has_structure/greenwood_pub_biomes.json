@@ -4,5 +4,9 @@
     "minecraft:dark_forest",
     "minecraft:sunflower_plains",
     "#minecraft:is_forest"
+    ,{
+      "id": "#dungeons_arise:collections/other_forests",
+      "required": false
+    }
   ]
 }
